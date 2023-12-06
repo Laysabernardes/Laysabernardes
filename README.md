@@ -7,12 +7,10 @@
 <div>
   <a href:"https://https://github.com/Laysabernardes">
   <!--<img height="130em" src="https://github-readme-stats.vercel.app/api?username=LaysaBernardes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula&include_all_commits-true&count_"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent" alt="Laysa Bernardes GitHub stats">
 </div>
 
-<div>
- ![Laysa Bernardes GitHub stats](https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=tokyonight)
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
