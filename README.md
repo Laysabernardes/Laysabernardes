@@ -9,7 +9,7 @@
   <!--<img height="130em" src="https://github-readme-stats.vercel.app/api?username=LaysaBernardes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula&include_all_commits-true&count_"/>-->
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent" alt="Laysa Bernardes GitHub stats">
-  <a href="https://git.io/streak-stats"><img height="130rem" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&hide_border=" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img height="235em" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&hide_border=" alt="GitHub Streak" /></a>
     <!--https://streak-stats.demolab.com/demo/?user=Laysabernardes&theme=transparent&hide_border=falso&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=fundo -->
 </div>
 
