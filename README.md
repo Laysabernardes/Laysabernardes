@@ -10,15 +10,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent" alt="Laysa Bernardes GitHub stats">
 </div>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br>
+<br>
+    
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,cs,express,mongodb,mysql)](https://skillicons.dev)
+<!-- https://github.com/tandpfun/skill-icons -->
 
 <div> 
   <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
