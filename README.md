@@ -13,6 +13,7 @@
     <!--https://streak-stats.demolab.com/demo/?user=Laysabernardes&theme=transparent&hide_border=falso&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=fundo -->
 </div>
 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,nodejs,express,mongodb,cs,mysql)](https://skillicons.dev)
 <!-- https://github.com/tandpfun/skill-icons -->
 
