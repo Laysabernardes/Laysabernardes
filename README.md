@@ -1,4 +1,17 @@
-### Olá! 👋
+## Olá! 👋
+![Texto Alternativo](src/fundo.png)
+
+## Sobre Mim 🌟
+
+<div>
+Sou, uma entusiasta da programação de 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP e estou em busca do meu primeiro emprego na área.
+<br><br>
+Sou organizada, acredito na importância da estrutura e planejamento para o sucesso de projetos. Me considero uma líder em formação, minha criatividade é uma aliada constante e estou sempre buscando melhorar.
+<br><br>
+Bem-vindo ao meu perfil! Explore meus projetos e acompanhe essa jornada de programação e descobertas. 🚀🌟
+</div>
+<br><br>
+
 
 - 🌱 Estudando JS e C#
 - 🖥️ Aluna do Programa ONE - Oracle e Alura
