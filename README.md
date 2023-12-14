@@ -12,14 +12,6 @@
 - Explore meus projetos e acompanhe essa jornada de programação e descobertas. 🚀
 
   </div>
-  <div style="text-align: right;">
-    <img 
-      height="200px"
-      width="800px"
-      src="src/image.png"
-      alt="Github stats"
-    />
-  </div> 
 </div>
 
 ##
@@ -27,7 +19,6 @@
 <div>
       <img 
         align="left"
-        height="200em"
         src="src/2.png"
         alt="Github stats"
       />
@@ -64,7 +55,6 @@
 
 <img 
   align="left"
-  height="200em"
   src="src/3.png"
   alt="Github stats"
 />
