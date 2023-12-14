@@ -3,19 +3,19 @@
 ## Sobre mim 🌟
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="text-align: left; margin-right: 20px;">
-  
-    Sou, uma entusiasta da programação de 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP e estou em busca do meu primeiro emprego na área.
-    
-    Sou organizada, acredito na importância da estrutura e planejamento para o sucesso de projetos. Me considero uma líder em formação, criativa, comunicativa e estou sempre buscando melhorar.
-    
-    Explore meus projetos e acompanhe essa jornada de programação e descobertas. 🚀
-  </div>
+  <div style="text-align: left; margin-right: 50px;">
 
+- Uma entusiasta da programação de 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP e estou em busca do meu primeiro emprego na área.
+
+- Sou organizada, acredito na importância da estrutura e planejamento para o sucesso de projetos. Me considero uma líder em formação, criativa, comunicativa e estou sempre buscando melhorar.
+
+- Explore meus projetos e acompanhe essa jornada de programação e descobertas. 🚀
+
+  </div>
   <div style="text-align: right;">
     <img 
-      height="200em"
-      width="800em"
+      height="200px"
+      width="800px"
       src="src/image.png"
       alt="Github stats"
     />
@@ -28,7 +28,7 @@
       <img 
         align="left"
         height="200em"
-        src="src/git_stats.png"
+        src="src/2.png"
         alt="Github stats"
       />
 <table>
@@ -60,7 +60,15 @@
 </div>
 -->
 
-## Tecnologias 🌟
+##
+
+<img 
+  align="left"
+  height="200em"
+  src="src/3.png"
+  alt="Github stats"
+/>
+
 
 <table>
   <tr>
