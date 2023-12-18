@@ -82,8 +82,6 @@
   </tr>
 </table>
 
-<!--https://github.com/tandpfun/skill-icons#readme -->
-
 ## Contato 🌟
 
 <div> 
