@@ -1,6 +1,6 @@
 ![Texto Alternativo](src/fundo.png)
 
-## Sobre mim 🌟
+## 🌟 Sobre mim 🌟
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-## Contato 🌟
+## 🌟 Contato 🌟
 
 <div> 
   <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
