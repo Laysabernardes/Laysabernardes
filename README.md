@@ -1,27 +1,6 @@
-![Texto Alternativo](src/fundo.png)
+![Texto Alternativo](src/bv.png)
 
 ## 🌟 Sobre mim 🌟
-<!-- Markdown com HTML para alterar as imagens com base no tema -->
-<style>
-  .dark-mode-img {
-    display: none;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .light-mode-img {
-      display: none;
-    }
-    .dark-mode-img {
-      display: block;
-    }
-  }
-</style>
-
-<!-- Imagens para os diferentes modos -->
-<img src= src/banner/2.png class="light-mode-img" alt="Imagem para modo claro">
-<img src= src/banner/3.png class="dark-mode-img" alt="Imagem para modo escuro">
-
-
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
@@ -40,7 +19,7 @@
 <div>
       <img 
         align="left"
-        src="src/2.png"
+        src="src/stats.png"
         alt="Github stats"
       />
 <table>
@@ -67,8 +46,8 @@
 
 <img 
   align="left"
-  src="src/3.png"
-  alt="Github stats"
+  src="src/tec.png"
+  alt="Tecnologias"
 />
 
 
