@@ -55,7 +55,7 @@
   <tr>
     <td>
       <img 
-        height="200em"
+        height="300em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=FF001F&text_color=B22C2B"
         alt="Github stats"
       />
@@ -63,8 +63,8 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img 
-            src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,nodejs,express,mongodb,mysql,github,git,cs,visualstudio,vscode&perline=5&theme=light" 
+          <img height="250em"
+            src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,cpp,cs,java,py,nodejs,express,mongodb,mysql,github,git,visualstudio,vscode&perline=6&theme=light" 
             alt="GitHub Streak"
           />
         </a>
@@ -73,11 +73,14 @@
   </tr>
 </table>
 
-## 🌟 Contato 🌟
+## 
+![Texto Alternativo](src/ctt.png)
 
 <div> 
-  <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:laysabernardes.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laysabernardes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" target="_blank"></a>
+  <a href = "mailto:laysabernardes.ads@gmail.com"><img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laysabernardes/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" target="_blank"></a> 
+  <a href="https://laysabernardes.github.io/challenge-portifolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" target="_blank"></a> 
+
 </div>
 
