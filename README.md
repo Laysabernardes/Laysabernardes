@@ -28,7 +28,6 @@
     <td  style="margin-botton: 20px;">
       <img
         align="left"
-        height="180em"
         src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=FF001F&text_color=B22C2B&icon_color=FF001F"
         alt="Laysa Bernardes GitHub stats"
       />
@@ -36,7 +35,6 @@
     <td>
       <img
         align="left"
-        height="200em"
         src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=FF001F&ring=FF001F&fire=FF001F&sideNums=FF001F&sideLabels=FF001F&dates=FF001F&excludeDaysLabel=FF001F&currStreakNum=FF001F&currStreakLabel=FF001F" alt="GitHub Streak"
       />
     </td>
