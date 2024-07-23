@@ -7,7 +7,7 @@
     <ul>
       <li><strong> Olá!</strong> Sou uma entusiasta da programação de 21 anos, estudante de Análise e Desenvolvimento de Sistemas no <strong>IFSP</strong>. Estou em busca do meu primeiro emprego na área para aplicar meus conhecimentos e contribuir para projetos inovadores. 💻</li>
       <li> Atualmente, participo de uma <strong>iniciação científica</strong> focada na <strong>Inteligência Artificial Generativa</strong> para melhorar o ensino de programação em Python. Este projeto me permite explorar a aplicação de IA para a geração de código e aprofundar meus conhecimentos em pesquisa e inovação no ensino de programação. 🤖</li>
-      <li>Sou <strong>organizada</strong>, valorizo <strong>estrutura e planejamento</strong>, e me considero uma <strong>líder em formação</strong>, <strong>criativa</strong>, e <strong>comunicativa</strong>.</li>
+      <li>Tenho um perfil <strong>organizado</strong>, valorizo <strong>estrutura</strong> e <strong>planejamento</strong> e estou desenvolvendo minhas habilidades de <strong>liderança</strong>. Além disso, sou <strong>criativa</strong> e <strong>comunicativa</strong>.</li>
       <li><strong>Explore meus projetos</strong> e acompanhe essa jornada de programação e descobertas. 🚀</li>
     </ul>
   </div>
@@ -22,11 +22,13 @@
         src="src/stats.png"
         alt="Github stats"
       />
+  
 <table>
   <tr>
     <td  style="margin-botton: 20px;">
       <img
         align="left"
+        height="180em"
         src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=FF001F&text_color=B22C2B&icon_color=FF001F"
         alt="Laysa Bernardes GitHub stats"
       />
