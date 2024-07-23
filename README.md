@@ -4,15 +4,15 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
-
-- Uma entusiasta da programação de 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP e estou em busca do meu primeiro emprego na área.
-
-- Sou organizada, acredito na importância da estrutura e planejamento para o sucesso de projetos. Me considero uma líder em formação, criativa, comunicativa e estou sempre buscando melhorar.
-
-- Explore meus projetos e acompanhe essa jornada de programação e descobertas. 🚀
-
+    <ul>
+      <li><strong> Olá!</strong> Sou uma entusiasta da programação de 21 anos, estudante de Análise e Desenvolvimento de Sistemas no <strong>IFSP</strong>. Estou em busca do meu primeiro emprego na área para aplicar meus conhecimentos e contribuir para projetos inovadores. 💻</li>
+      <li> Atualmente, participo de uma <strong>iniciação científica</strong> focada na <strong>Inteligência Artificial Generativa</strong> para melhorar o ensino de programação em Python. Este projeto me permite explorar a aplicação de IA para a geração de código e aprofundar meus conhecimentos em pesquisa e inovação no ensino de programação. 🤖</li>
+      <li>Sou <strong>organizada</strong>, valorizo <strong>estrutura e planejamento</strong>, e me considero uma <strong>líder em formação</strong>, <strong>criativa</strong>, e <strong>comunicativa</strong>.</li>
+      <li><strong>Explore meus projetos</strong> e acompanhe essa jornada de programação e descobertas. 🚀</li>
+    </ul>
   </div>
 </div>
+
 
 ##
 
