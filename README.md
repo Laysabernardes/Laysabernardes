@@ -1,5 +1,4 @@
-![Texto Alternativo](src/bv.png#gh-dark-mode-only)
-![Texto Alternativo](src/tec.png#gh-light-mode-only)
+![Texto Alternativo](src/bv.png)
 
 ## 🌟 Sobre mim 🌟
 
@@ -28,7 +27,7 @@
     <td  style="margin-botton: 20px;">
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=FF001F&text_color=B22C2B&icon_color=FF001F"
         alt="Laysa Bernardes GitHub stats"
       />
     </td>
@@ -36,7 +35,7 @@
       <img
         align="left"
         height="200em"
-        src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&hide_border=" alt="GitHub Streak"
+        src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=FF001F&ring=FF001F&fire=FF001F&sideNums=FF001F&sideLabels=FF001F&dates=FF001F&excludeDaysLabel=FF001F&currStreakNum=FF001F&currStreakLabel=FF001F" alt="GitHub Streak"
       />
     </td>
   </tr>
@@ -57,7 +56,7 @@
     <td>
       <img 
         height="200em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=FF001F&text_color=B22C2B"
         alt="Github stats"
       />
     </td>
