@@ -4,10 +4,10 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: left; margin-right: 50px;">
     <ul>
-      <li>Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFSP. 👩‍🎓</li>
-      <li>Buscando meu <strong>primeiro emprego</strong> na área de TI. 🚀</li>
-      <li>Participando de <strong>iniciação científica</strong> em <strong>IA Generativa</strong> para melhorar o ensino de <strong>Python</strong>. </li>
-      <li>Perfil organizado, valorizo <strong>planejamento</strong> e desenvolvo habilidades de <strong>liderança</strong>. 🗂</li>
+      <li>Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> do Instituto Federal de São Paulo - IFSP CBT . 👩‍🎓</li>
+      <li>Buscando uma <strong>vaga</strong> na área de TI. 🚀</li>
+      <li>Participo de uma <strong>iniciação científica</strong> em <strong>IA Generativa</strong> para melhorar o ensino de <strong>Python</strong>. </li>
+      <li>Perfil organizado, valorizo o <strong>planejamento</strong> e desenvolvo minhas habilidades de <strong>liderança</strong>. 🗂</li>
       <li>Confira meus <strong>projetos</strong> e acompanhe minha jornada na programação. 💻</li>
     </ul>
   </div>
