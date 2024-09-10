@@ -40,7 +40,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,cpp,cs,java,py,nodejs,express,mongodb,mysql,github,git,visualstudio,vscode&perline=6&theme=light" alt="GitHub Streak"/>
+          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,cs,java,py,nodejs,express,mongodb,mysql,github,git,visualstudio,vscode&perline=6&theme=light" alt="GitHub Streak"/>
         </a>
       </p>
     </td>
