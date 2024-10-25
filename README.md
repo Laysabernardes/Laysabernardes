@@ -1,4 +1,4 @@
-![Texto Alternativo](src/bv.png)
+![Texto Alternativo](src/roxo1.png)
 
 ## 🌟 Sobre mim 🌟
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
