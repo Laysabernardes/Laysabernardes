@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td style="margin-botton: 20px;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=FF001F&text_color=B22C2B&icon_color=FF001F" alt="Laysa Bernardes GitHub stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=bd00ff&text_color=8603bb&icon_color=f5200ff" alt="Laysa Bernardes GitHub stats"/>
       </td>
       <td>
-        <img align="left" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=FF001F&ring=FF001F&fire=FF001F&sideNums=FF001F&sideLabels=FF001F&dates=FF001F&excludeDaysLabel=FF001F&currStreakNum=FF001F&currStreakLabel=FF001F" alt="GitHub Streak"/>
+        <img align="left" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=bd00ff&ring=bd00ff&fire=bd00ff&sideNums=bd00ff&sideLabels=bd00ff&dates=bd00ff&excludeDaysLabel=bd00ff&currStreakNum=bd00ff&currStreakLabel=bd00ff" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=FF001F&text_color=B22C2B" alt="Github stats"/>
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=bd00ff&text_color=bd00ff" alt="Github stats"/>
     </td>
     <td>
       <p align="center">
