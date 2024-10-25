@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <img align="left" src="src/stats.png" alt="Github stats"/>
+  <img align="left" src="src/roxo2.png" alt="Github stats"/>
   <table>
     <tr>
       <td style="margin-botton: 20px;">
@@ -32,7 +32,7 @@
 
 ##
 
-<img align="left" src="src/tec.png" alt="Tecnologias"/>
+<img align="left" src="src/roxo3.png" alt="Tecnologias"/>
 <table>
   <tr>
     <td>
@@ -49,11 +49,11 @@
 </table>
 
 ## 
-![Texto Alternativo](src/ctt.png)
+![Texto Alternativo](src/roxo4.png)
 
 <div> 
   <a href="https://instagram.com/laysa_bernardes" target="_blank"><img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" target="_blank"></a>
   <a href = "mailto:laysabernardes.ads@gmail.com"><img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laysabernardes/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" target="_blank"></a> 
-  <a href="https://laysabernardes.github.io/challenge-portifolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" target="_blank"></a> 
+  <a href="https://laysabernardes.github.io/portfolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" target="_blank"></a> 
 </div>
