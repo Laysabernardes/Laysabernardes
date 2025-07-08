@@ -5,7 +5,7 @@
   <div style="text-align: left; margin-right: 50px;">
     <ul>
       <li>Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> do Instituto Federal de São Paulo - IFSP CBT. 👩‍🎓</li>
-      <li>Participo de uma <strong>iniciação científica</strong> que explora o uso de <strong>Inteligência Artificial Generativa</strong> em conjunto com o método <strong>Pair Programming </strong> para auxiliar o aprendizado de <strong>Python</strong>.🤖</li>
+      <li>Participei de uma <strong>iniciação científica</strong> que explora o uso de <strong>Inteligência Artificial Generativa</strong> em conjunto com o método <strong>Pair Programming </strong> para auxiliar o aprendizado de <strong>Python</strong>.🤖</li>
       <li>Tenho um perfil organizado, valorizo o <strong>planejamento</strong> estou desenvolvendo minhas habilidades de <strong>liderança</strong>. 🗂</li>
       <li>Confira meus <strong>projetos</strong> e acompanhe minha jornada na programação.💻</li>
       <li>Estou estudando <strong> JavaScript, Node.js , React e Python.</strong>👩‍💻</li>
