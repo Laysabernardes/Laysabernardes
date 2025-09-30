@@ -7,7 +7,7 @@
 - 🗂 Tenho um perfil organizado, valorizo o **planejamento** e estou desenvolvendo minhas habilidades de **liderança**.
 - 💻 Confira meus **projetos** e acompanhe minha jornada na programação.
 - 👩‍💻 Estou estudando **JavaScript, Node.js, React, SQL e C#**.
-- 💼 Estou em busca de uma **oportunidade na área de desenvolvimento**. [Meu curriculo](https://github.com/Laysabernardes/Laysabernardes/blob/main/src/curriculoLaysaBernardes2.docx.pdf). 
+- 💼 [Meu curriculo](https://github.com/Laysabernardes/Laysabernardes/blob/main/src/curriculoLaysaBernardes2.docx.pdf). 
 <br> <div>
   <img align="left" src="src/roxo2.png" alt="Estatísticas do GitHub"/>
   <table>
