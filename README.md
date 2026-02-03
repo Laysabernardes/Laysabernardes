@@ -13,7 +13,7 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=laysabernardes&show_icons=true&theme=transparent&title_color=bd00ff&text_color=8603bb&icon_color=f5200ff" alt="Estatísticas do GitHub de Laysa Bernardes"/>
+        <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LaysaBernardes&show_icons=true&theme=jolly&title_color=bd00ff&text_color=8603bb&icon_color=f5200ff&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Laysa Bernardes"/>
       </td>
       <td>
         <img align="left" src="https://streak-stats.demolab.com?user=Laysabernardes&theme=transparent&stroke=bd00ff&ring=bd00ff&fire=bd00ff&sideNums=bd00ff&sideLabels=bd00ff&dates=bd00ff&excludeDaysLabel=bd00ff&currStreakNum=bd00ff&currStreakLabel=bd00ff" alt="Sequência de Contribuições no GitHub"/>
@@ -28,12 +28,12 @@
 <table>
   <tr>
     <td>
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=bd00ff&text_color=bd00ff" alt="Linguagens mais usadas por Laysa Bernardes"/>
+      <img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Laysabernardes&layout=compact&langs_counts=16&theme=transparent&title_color=bd00ff&text_color=bd00ff" alt="Linguagens mais usadas por Laysa Bernardes"/>
     </td>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img height="250em" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,cs,java,py,nodejs,express,mongodb,mysql,github,git,visualstudio,vscode&perline=6&theme=light" alt="Ícones de Habilidades e Tecnologias"/>
+          <img height="250em" src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,mongodb,mysql,py,cs,dotnet,github,git,visualstudio,vscode&perline=6&theme=light" alt="Ícones de Habilidades e Tecnologias"/>
         </a>
       </p>
     </td>
